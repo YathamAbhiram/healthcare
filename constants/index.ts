@@ -29,53 +29,48 @@ export const PatientFormDefaultValues = {
 export const IdentificationTypes = [
   "Birth Certificate",
   "Driver's License",
-  "Medical Insurance Card/Policy",
-  "Military ID Card",
-  "National Identity Card",
   "Passport",
-  "Resident Alien Card (Green Card)",
-  "Social Security Card",
-  "State ID Card",
+  "Aadhar card",
   "Student ID Card",
   "Voter ID Card",
 ];
 
 export const Doctors = [
   {
-    image: "/assets/images/dr-green.png",
-    name: "John Green",
+    image: "/assets/images/dr-Bhairava.png",
+    name: "Bhairava",
   },
   {
-    image: "/assets/images/dr-cameron.png",
-    name: "Leila Cameron",
+    image: "/assets/images/dr-Roxie.png",
+    name: "Roxie",
   },
   {
     image: "/assets/images/dr-livingston.png",
-    name: "David Livingston",
+    name: "Danny",
   },
   {
     image: "/assets/images/dr-peter.png",
-    name: "Evan Peter",
+    name: "Vishnu Sekhar",
   },
   {
     image: "/assets/images/dr-powell.png",
-    name: "Jane Powell",
+    name: "Priya",
   },
   {
-    image: "/assets/images/dr-remirez.png",
-    name: "Alex Ramirez",
+    image: "/assets/images/dr-VenkataRamana.png",
+    name: "Venkata Ramana",
   },
   {
     image: "/assets/images/dr-lee.png",
-    name: "Jasmine Lee",
+    name: "Meena Priyadharsini",
   },
   {
     image: "/assets/images/dr-cruz.png",
-    name: "Alyana Cruz",
+    name: "Praisy",
   },
   {
-    image: "/assets/images/dr-sharma.png",
-    name: "Hardik Sharma",
+    image: "/assets/images/dr-SiddhanthNandanSaaho.png",
+    name: "Siddhanth Nandan Saaho",
   },
 ];
 
